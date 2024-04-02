@@ -15,10 +15,3 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 http://neuralnetworksanddeeplearning.com/
 - Deep Neural Networks playlist by Andrew NG:
 https://www.youtube.com/playlist?list=PLpFsSf5Dm-pd5d3rjNtIXUHT-v7bdaEIe
-
-## Our contact if you have any questions:
-OUADI Mounir : m.aouadi@univ-boumerdes.dz
-
-HAMAI Younes : y.hamai@univ-boumerdes.dz
-
-HADJ SAID Baba : b.hadjsaid@univ-boumerdes.dz
